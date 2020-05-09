@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aaron.iml" filepath="$PROJECT_DIR$/aaron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-principle/design-principle.iml" filepath="$PROJECT_DIR$/design-principle/design-principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+    </modules>
+  </component>
+</project>
